@@ -22,6 +22,7 @@
 - Google Cloud Spanner - **[https://github.com/rakyll/go-sql-driver-spanner](https://github.com/rakyll/go-sql-driver-spanner)**
 - MaxCompute - **[https://github.com/sql-machine-learning/gomaxcompute](https://github.com/sql-machine-learning/gomaxcompute)**
 - MongoDB - **[https://github.com/mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)**
+- MongoDB - **[https://labix.org/mgo](https://labix.org/mgo)**
 - MS ADODB - **[https://github.com/mattn/go-adodb](https://github.com/mattn/go-adodb)**
 - MS SQL Server (pure go) - **[https://github.com/denisenkom/go-mssqldb](https://github.com/denisenkom/go-mssqldb)**
 - MS SQL Server (uses cgo) - **[https://github.com/minus5/gofreetds](https://github.com/minus5/gofreetds)**
