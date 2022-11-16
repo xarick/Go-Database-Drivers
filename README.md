@@ -1,2 +1,54 @@
 # Go-Database-Drivers
  
+
+- Apache H2 - **[https://github.com/jmrobles/h2go](https://github.com/jmrobles/h2go)**
+- Apache Ignite/GridGain - **[https://github.com/amsokol/ignite-go-client](https://github.com/amsokol/ignite-go-client)**
+- Apache Impala - **[https://github.com/bippio/go-impala](https://github.com/bippio/go-impala)**
+- Apache Avatica/Feniks - **[https://github.com/apache/calcite-avatica-go](https://github.com/apache/calcite-avatica-go)**
+- Amazon AWS Athena - **[https://github.com/uber/athenadriver](https://github.com/uber/athenadriver)**
+- Apache Hive - **[https://github.com/sql-machine-learning/gohive](https://github.com/sql-machine-learning/gohive)**
+- AWS Athena - **[https://github.com/segmentio/go-athena](https://github.com/segmentio/go-athena)**
+- Azure Cosmos DB - **[https://github.com/btnguyen2k/gocosmos](https://github.com/btnguyen2k/gocosmos)**
+- ClickHouse (uses native TCP interface) - **[https://github.com/ClickHou­se/clickhouse-go](https://github.com/ClickHou­se/clickhouse-go)**
+- ClickHouse (uses HTTP API) - **[https://github.com/mailru/go-clickhouse](https://github.com/mailru/go-clickhouse)**
+- CockroachDB - **[equal to PostgreSQL drivers]()**
+- Couchbase N1QL - **[https://github.com/couchbase/go_n1ql](https://github.com/couchbase/go_n1ql)**
+- DB2 LUW and DB2/Z with DB2-Connect - **[https://bitbucket.org/phiggins/db2cli](https://bitbucket.org/phiggins/db2cli)**
+- DB2 LUW (uses cgo) - **[https://github.com/asifjalil/cli](https://github.com/asifjalil/cli)**
+- DB2 LUW, z/OS, iSeries and Informix - **[https://github.com/ibmdb/go_ibm_db](https://github.com/ibmdb/go_ibm_db)**
+- Firebird SQL - **[https://github.com/nakaga­mi/firebirdsql](https://github.com/nakaga­mi/firebirdsql)**
+- Genji (pure go) - **[https://github.com/genjidb/genji](https://github.com/genjidb/genji)**
+- Google Cloud BigQuery - **[Python](https://github.com/solcates/go-sql-bigquery)**
+- Google Cloud Spanner - **[https://github.com/rakyll/go-sql-driver-spanner](https://github.com/rakyll/go-sql-driver-spanner)**
+- MaxCompute - **[https://github.com/sql-machine-learning/gomaxcompute](https://github.com/sql-machine-learning/gomaxcompute)**
+- MS ADODB - **[https://github.com/mattn/go-adodb](https://github.com/mattn/go-adodb)**
+- MS SQL Server (pure go) - **[https://github.com/denisenkom/go-mssqldb](https://github.com/denisenkom/go-mssqldb)**
+- MS SQL Server (uses cgo) - **[https://github.com/minus5/gofreetds](https://github.com/minus5/gofreetds)**
+- MySQL - **[https://github.com/go-sql-driver/mysql/](https://github.com/go-sql-driver/mysql/)**
+- MySQL - **[https://github.com/siddontang/go-mysql/](https://github.com/siddontang/go-mysql/)**
+- MySQL - **[https://github.com/ziutek/mymysql](https://github.com/ziutek/mymysql)**
+- ODBC - **[https://bitbucket.org/miquella/mgodbc](https://bitbucket.org/miquella/mgodbc)**
+- ODBC - **[https://github.com/alexbrainman/odbc](https://github.com/alexbrainman/odbc)**
+- Oracle (uses cgo) - **[https://github.com/mattn/go-oci8](https://github.com/mattn/go-oci8)**
+- Oracle (uses cgo) - **[https://github.com/godror/godror](https://github.com/godror/godror)**
+- Oracle (uses cgo) - **[https://gopkg.in/rana/ora.v4](https://gopkg.in/rana/ora.v4)**
+- Oracle (pure go) - **[https://github.com/sijms/go-ora](https://github.com/sijms/go-ora)**
+- Postgres (pure Go) - **[https://github.com/lib/pq](https://github.com/lib/pq)**
+- Postgres (uses cgo) - **[https://github.com/jbarham/gopgsqldriver](https://github.com/jbarham/gopgsqldriver)**
+- Postgres (pure Go) - **[https://github.com/jackc/pgx](https://github.com/jackc/pgx)**
+- Presto - **[https://github.com/prestodb/presto-go-client](https://github.com/prestodb/presto-go-client)**
+- QL - **[https://github.com/cznic/ql](https://github.com/cznic/ql)**
+- Redis - **[https://github.com/go-redis/redis](https://github.com/go-redis/redis)**
+- SAP HANA (pure go) - **[https://github.com/SAP/go-hdb](https://github.com/SAP/go-hdb)**
+- Snowflake (pure Go) - **[https://github.com/snowfla­kedb/gosnowflake](https://github.com/snowfla­kedb/gosnowflake)**
+- SQLite (uses cgo) - **[https://github.com/mattn/go-sqlite3](https://github.com/mattn/go-sqlite3)**
+- SQLite (uses cgo) - **[https://github.com/gwenn/gosqlite](https://github.com/gwenn/gosqlite)**
+- SQLite (uses cgo) - **[https://github.com/mxk/go-sqlite](https://github.com/mxk/go-sqlite)**
+- SQLite (uses cgo) - **[https://github.com/rsc/sqlite](https://github.com/rsc/sqlite)**
+- SQLite - **[https://modernc.org/sqlite](https://modernc.org/sqlite)**
+- SQL over REST - **[https://github.com/adaptant-labs/go-sql-rest-driver](https://github.com/adaptant-labs/go-sql-rest-driver)**
+- Sybase SQL Anywhere - **[https://github.com/a-palchikov/sqlago](https://github.com/a-palchikov/sqlago)**
+- Sybase ASE (pure go) - **[https://github.com/thda/tds](https://github.com/thda/tds)**
+- Vertica - **[https://github.com/vertica/vertica-sql-go](https://github.com/vertica/vertica-sql-go)**
+- Vitess - **[https://godoc.org/vitess.i­o/vitess/go/vt/vitessdriver](https://godoc.org/vitess.i­o/vitess/go/vt/vitessdriver)**
+- YQL (Yahoo! Query Language) - **[https://github.com/mattn/go-yql]()**
