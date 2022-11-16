@@ -16,6 +16,7 @@
 - DB2 LUW and DB2/Z with DB2-Connect - **[https://bitbucket.org/phiggins/go-db2/src](https://bitbucket.org/phiggins/go-db2/src)**
 - DB2 LUW (uses cgo) - **[https://github.com/asifjalil/cli](https://github.com/asifjalil/cli)**
 - DB2 LUW, z/OS, iSeries and Informix - **[https://github.com/ibmdb/go_ibm_db](https://github.com/ibmdb/go_ibm_db)**
+- Exasol - **[https://github.com/exasol/exasol-driver-gol](https://github.com/exasol/exasol-driver-gol)**
 - Firebird SQL - **[https://github.com/nakagami/firebirdsql](https://github.com/nakagami/firebirdsql)**
 - Genji (pure go) - **[https://github.com/genjidb/genji](https://github.com/genjidb/genji)**
 - Google Cloud BigQuery - **[https://github.com/solcates/go-sql-bigquery](https://github.com/solcates/go-sql-bigquery)**
@@ -42,6 +43,9 @@
 - QL - **[https://github.com/cznic/ql](https://github.com/cznic/ql)**
 - Redis - **[https://github.com/go-redis/redis](https://github.com/go-redis/redis)**
 - SAP HANA (pure go) - **[https://github.com/SAP/go-hdb](https://github.com/SAP/go-hdb)**
+- SAP ASE (pure go) - **[https://github.com/SAP/go-ase](https://github.com/SAP/go-ase)**
+- SAP ASE (uses go) - **[https://github.com/SAP/cgo-ase](https://github.com/SAP/cgo-ase)**
+- SingleStore - Use any MySQL driver
 - Snowflake (pure Go) - **[https://github.com/snowflakedb/gosnowflake](https://github.com/snowflakedb/gosnowflake)**
 - SQLite (uses cgo) - **[https://github.com/mattn/go-sqlite3](https://github.com/mattn/go-sqlite3)**
 - SQLite (uses cgo) - **[https://github.com/gwenn/gosqlite](https://github.com/gwenn/gosqlite)**
@@ -50,5 +54,8 @@
 - SQL over REST - **[https://github.com/adaptant-labs/go-sql-rest-driver](https://github.com/adaptant-labs/go-sql-rest-driver)**
 - Sybase SQL Anywhere - **[https://github.com/a-palchikov/sqlago](https://github.com/a-palchikov/sqlago)**
 - Sybase ASE (pure go) - **[https://github.com/thda/tds](https://github.com/thda/tds)**
+- TiDB - Use any MySQL driver
 - Vertica - **[https://github.com/vertica/vertica-sql-go](https://github.com/vertica/vertica-sql-go)**
+- Vitess - **[https://pkg.go.dev/vitess.io/vitess/go/vt/vitessdriver](https://pkg.go.dev/vitess.io/vitess/go/vt/vitessdriver)**
 - YQL (Yahoo! Query Language) - **[https://github.com/mattn/go-yql](https://github.com/mattn/go-yql)**
+- YDB (Yandex Database) - **[https://github.com/ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk)**
